@@ -11,6 +11,8 @@ events.db*
 tests/data/parse_dialogues.pkl
 tests/data/records.pkl
 
+.idea/cong_nghe_phan_mem.iml
+.idea/misc.xml
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
